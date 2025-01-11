@@ -1,0 +1,2 @@
+# FugyunMessageDisplay
+ふぎゅんメッセージ表示
