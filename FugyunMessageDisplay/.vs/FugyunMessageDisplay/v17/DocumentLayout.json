@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2295ADB-A41D-4BA4-AF72-12B650C00AB5}|FugyunMessageDisplay\\FugyunMessageDisplay.csproj|C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\fugyunmessagedisplay\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2295ADB-A41D-4BA4-AF72-12B650C00AB5}|FugyunMessageDisplay\\FugyunMessageDisplay.csproj|solutionrelative:fugyunmessagedisplay\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2295ADB-A41D-4BA4-AF72-12B650C00AB5}|FugyunMessageDisplay\\FugyunMessageDisplay.csproj|c:\\users\\fugyu\\source\\repos\\fugyunmessagedisplay\\fugyunmessagedisplay\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2295ADB-A41D-4BA4-AF72-12B650C00AB5}|FugyunMessageDisplay\\FugyunMessageDisplay.csproj|solutionrelative:fugyunmessagedisplay\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2295ADB-A41D-4BA4-AF72-12B650C00AB5}|FugyunMessageDisplay\\FugyunMessageDisplay.csproj|C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\fugyunmessagedisplay\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2295ADB-A41D-4BA4-AF72-12B650C00AB5}|FugyunMessageDisplay\\FugyunMessageDisplay.csproj|solutionrelative:fugyunmessagedisplay\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2295ADB-A41D-4BA4-AF72-12B650C00AB5}|FugyunMessageDisplay\\FugyunMessageDisplay.csproj|C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\fugyunmessagedisplay\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2295ADB-A41D-4BA4-AF72-12B650C00AB5}|FugyunMessageDisplay\\FugyunMessageDisplay.csproj|solutionrelative:fugyunmessagedisplay\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2295ADB-A41D-4BA4-AF72-12B650C00AB5}|FugyunMessageDisplay\\FugyunMessageDisplay.csproj|C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\fugyunmessagedisplay\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2295ADB-A41D-4BA4-AF72-12B650C00AB5}|FugyunMessageDisplay\\FugyunMessageDisplay.csproj|solutionrelative:fugyunmessagedisplay\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomMessageBox.cs",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\FugyunMessageDisplay\\CustomMessageBox.cs",
+              "RelativeDocumentMoniker": "FugyunMessageDisplay\\CustomMessageBox.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\FugyunMessageDisplay\\CustomMessageBox.cs",
+              "RelativeToolTip": "FugyunMessageDisplay\\CustomMessageBox.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:18:29.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomMessageBox.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\FugyunMessageDisplay\\CustomMessageBox.cs",
+              "RelativeDocumentMoniker": "FugyunMessageDisplay\\CustomMessageBox.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\FugyunMessageDisplay\\CustomMessageBox.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "FugyunMessageDisplay\\CustomMessageBox.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:22:36.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Const.cs",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\FugyunMessageDisplay\\Const.cs",
+              "RelativeDocumentMoniker": "FugyunMessageDisplay\\Const.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\FugyunMessageDisplay\\Const.cs",
+              "RelativeToolTip": "FugyunMessageDisplay\\Const.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:06:43.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\FugyunMessageDisplay\\MainForm.cs",
+              "RelativeDocumentMoniker": "FugyunMessageDisplay\\MainForm.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\FugyunMessageDisplay\\MainForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "FugyunMessageDisplay\\MainForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:41:41.685Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\FugyunMessageDisplay\\MainForm.cs",
+              "RelativeDocumentMoniker": "FugyunMessageDisplay\\MainForm.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\FugyunMessageDisplay\\FugyunMessageDisplay\\MainForm.cs",
+              "RelativeToolTip": "FugyunMessageDisplay\\MainForm.cs",
+              "ViewState": "AgIAANIBAAAAAAAAAAAowAICAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:30:05.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

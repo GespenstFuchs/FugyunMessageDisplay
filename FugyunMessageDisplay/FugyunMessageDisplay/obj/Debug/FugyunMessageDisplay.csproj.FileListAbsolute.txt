@@ -1,0 +1,12 @@
+C:\Users\fugyu\source\repos\FugyunMessageDisplay\FugyunMessageDisplay\obj\Debug\FugyunMessageDisplay.csproj.AssemblyReference.cache
+C:\Users\fugyu\source\repos\FugyunMessageDisplay\FugyunMessageDisplay\obj\Debug\FugyunMessageDisplay.MainForm.resources
+C:\Users\fugyu\source\repos\FugyunMessageDisplay\FugyunMessageDisplay\obj\Debug\FugyunMessageDisplay.MessageForm.resources
+C:\Users\fugyu\source\repos\FugyunMessageDisplay\FugyunMessageDisplay\obj\Debug\FugyunMessageDisplay.Properties.Resources.resources
+C:\Users\fugyu\source\repos\FugyunMessageDisplay\FugyunMessageDisplay\obj\Debug\FugyunMessageDisplay.csproj.GenerateResource.cache
+C:\Users\fugyu\source\repos\FugyunMessageDisplay\FugyunMessageDisplay\obj\Debug\FugyunMessageDisplay.csproj.CoreCompileInputs.cache
+C:\Users\fugyu\source\repos\FugyunMessageDisplay\FugyunMessageDisplay\bin\Debug\ふぎゅんメッセージ表示.exe.config
+C:\Users\fugyu\source\repos\FugyunMessageDisplay\FugyunMessageDisplay\bin\Debug\ふぎゅんメッセージ表示.exe
+C:\Users\fugyu\source\repos\FugyunMessageDisplay\FugyunMessageDisplay\bin\Debug\ふぎゅんメッセージ表示.pdb
+C:\Users\fugyu\source\repos\FugyunMessageDisplay\FugyunMessageDisplay\obj\Debug\ふぎゅんメッセージ表示.exe
+C:\Users\fugyu\source\repos\FugyunMessageDisplay\FugyunMessageDisplay\obj\Debug\ふぎゅんメッセージ表示.pdb
+C:\Users\fugyu\source\repos\FugyunMessageDisplay\FugyunMessageDisplay\obj\Debug\FugyunFolderCreator.CustomMessageBox.resources
